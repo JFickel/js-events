@@ -1,0 +1,33 @@
+#todo {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.toolbox {
+  text-align: center;
+}
+
+.todo.complete h2 {
+  text-decoration: line-through;
+}
+
+.todo ul li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+.todo ul span {
+  margin: 0px 5px;
+}
+
+.todo ul {
+  display: inline-block;
+  text-align: right;
+  width: 400px;
+}
+
+.content {
+  width: 300px;
+  height: 50px;
+}
